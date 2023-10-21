@@ -1,4 +1,4 @@
-# Text to Speech - Web Application
+# Text Speak - Web Application
 
 Unleash the Power of Spoken Words with Text to Speech! 📢🔊
 
